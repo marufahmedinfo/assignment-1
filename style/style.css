@@ -109,3 +109,28 @@ opacity: 0.7;
     opacity: 0.7;
     padding: 10px;
 }
+/* inspiration style  */
+.inspiration {
+    margin-top: -124px;
+}
+.inspiration-header {
+    padding: 20px 99px;
+}
+.inspiration-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    line-height: 37px;
+
+}
+.inspiration-description{
+    color: rgb(13, 19, 33);;
+    font-size: 16px;
+    line-height: 26px;
+    opacity: 0.7;
+}
+
+
+
+
+
+
