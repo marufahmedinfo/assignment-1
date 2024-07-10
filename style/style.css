@@ -6,6 +6,10 @@
     font-variation-settings:
       "wdth" 100;
   }
+  *{
+    margin: 0 auto;
+    padding: 0;
+  }
   /*------------------------------------------- about section  */
   .about{
     border-radius: 10px;
