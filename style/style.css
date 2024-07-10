@@ -6,14 +6,14 @@
     font-variation-settings:
       "wdth" 100;
   }
-  /* about section  */
+  /*------------------------------------------- about section  */
   .about{
     border-radius: 10px;
     padding: 68px 150px 86px 150px;
     text-align: center;
     margin: 130px;
 }
-/* banner style  */
+/*------------------------------------------------------ banner style  */
 nav{
     display: flex;
     align-items: center;
@@ -60,7 +60,7 @@ nav{
     background: #000;
     color: #fff;
 }
-/* Development style  */
+/*--------------------------------------------------- Development style  */
 main{
     font-family: "Open Sans", sans-serif;
 }
@@ -109,7 +109,7 @@ opacity: 0.7;
     opacity: 0.7;
     padding: 10px;
 }
-/* inspiration style  */
+/*----------------------------------------------- inspiration style  */
 .inspiration {
     margin-top: -119px;
     height: 800px;
@@ -139,7 +139,7 @@ opacity: 0.7;
     border-radius: 20px;
     width: 96%;
 }
-/* current-target style  */
+/*------------------------------------------ current-target style  */
 .current-target-top{
         padding: 20px 99px;
 }
@@ -228,7 +228,7 @@ font-size: 16px;
 line-height: 19px;
 text-align: left;
 }
-/* next target style  */
+/* -----------------------------------------next target style  */
 .next-target {
     padding: 20px 21px;
 }
@@ -244,7 +244,7 @@ text-align: left;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 16px;
     background: rgb(255, 255, 255);
-    padding: 10px 108px;
+    padding: 10px 138px;
     margin: 36px 0px;
 
 }
@@ -287,12 +287,47 @@ text-align: left;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 16px;
     background: rgb(255, 255, 255);
-    padding: 10px 108px;
+    padding: 10px 84px;
     margin: 36px 0px;
-
 }
+/* -----------------------------------------i nead sapurt style  */
 
-
-
+.contact {
+    background-image: url(../assets/handshake.jpg);
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact h2{
+    color: rgb(255, 255, 255);
+font-size: 32px;
+line-height: 36px;
+text-align: center;
+}
+.contact p{
+    color: rgb(255, 255, 255);
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+opacity: 0.7;
+}
+.input-type {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    width: 360px;
+    padding: 17px 16px;
+    font-size: 16px;
+}
+.input-btn {
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    width: 91px;
+    padding: 18px;
+    font-size: 17px;
+    border: none;
+    margin-left: 12px;
+}
 
 
